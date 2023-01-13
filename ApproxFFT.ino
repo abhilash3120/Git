@@ -51,6 +51,7 @@ Contact: abhilashpatel121@gmail.com
 Documentation & details: https://www.instructables.com/member/abhilash_patel/instructables/
 
 Update(06/05/21): Correction made for support on Arduino Due
+modification done...
 */
 
 float Approx_FFT(int in[],int N,float Frequency)
